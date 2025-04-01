@@ -1,2 +1,2 @@
 # Statistical-Analysis
-A collection of statistical analyses.
+A collection of solved statistics problems from books.
